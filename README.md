@@ -1,2 +1,2 @@
 # School_Project
- this is a little project of making objects for Click ins
+ This project includes 2 Objects from diffrent people and their information
