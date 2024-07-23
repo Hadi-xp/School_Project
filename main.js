@@ -1,6 +1,6 @@
 let school = {
     classA : [
-        SA1 = {
+        {
             name : 'Hadi Bahadori',
             Fname : 'Hadi',
             Lname : 'Bahadori',
@@ -12,7 +12,7 @@ let school = {
             favorites : ['game','coding','music'],
             instagramID : '_hadixp'
         },
-        SA2 = {
+        {
             name : 'Alireza Noshad',
             Fname : 'Alireza',
             Lname : 'Noshad',
@@ -24,7 +24,7 @@ let school = {
             favorites :['game', 'music' , 'coding'],
             instagramID : 'ielinoor_'
         },
-        SA3 = {
+        {
             name : 'Reza Salimi',
             Fname : 'Reza',
             Lname : 'Salimi',
@@ -38,7 +38,7 @@ let school = {
         }
     ],
     classB : [
-        SB1 = {
+        {
             name : 'Fahime Ansari',
             Fname : 'Fahime',
             Lname : 'Ansari',
@@ -50,7 +50,7 @@ let school = {
             favorites : ['teaching', 'khorma', 'english'],
             instagramID : 'fahimehansariii'
         },
-        SB2 = {
+        {
             name : 'Fariba Ebrahimi',
             Fname : 'Fariba',
             Lname : 'Ebrahimi',
@@ -62,7 +62,7 @@ let school = {
             favorites :['caffe', 'selfie', 'Hadi Bahadori'],
             instagramID : 'fribaJebrahimi'
         },
-        SB3 = {
+        {
             name : 'Nazanin Bagheri',
             Fname : 'Nazanin',
             Lname : 'Bagheri',
