@@ -1,6 +1,6 @@
 let school = {
-    classA : [
-        {
+    classA : {
+        []
             name : 'Hadi Bahadori',
             Fname : 'Hadi',
             Lname : 'Bahadori',
@@ -36,7 +36,7 @@ let school = {
             favorites : 'not enough information',
             instagramID : 'rzaslm0'
         }
-    ],
+    },
     classB : [
         {
             name : 'Fahime Ansari',
